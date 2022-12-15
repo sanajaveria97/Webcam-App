@@ -1,0 +1,15 @@
+{
+  "name": "webcam-19-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "start": "browser-sync start --server --files '*.html, *.js'"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.27.10",
+    "express": "^4.18.2"
+  }
+}
